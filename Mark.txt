@@ -16,7 +16,7 @@ git init
 5- Added  GermanRepo files [ xercises.py + Hallo.py + Mark.txt ]  to Staging Area 
 git add .
 6- Commit it 
-git commit -m "Making Exercise 1  "
+git commit -m "Making Python  Exercise 1  "
 7- Show status 
 git status
 B- Remote 
